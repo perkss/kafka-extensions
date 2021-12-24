@@ -41,6 +41,8 @@ buildNumber.propertiesReactiveKafka
 
 # Ignore Gradle project-specific cache directory
 .gradle
+!gradle/wrapper/gradle-wrapper.jar
 
 # Ignore Gradle build output directory
 build
+/out/
